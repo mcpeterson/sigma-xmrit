@@ -31,6 +31,11 @@ const xAxis = {
       color: "#000",
     },
   },
+  nameLocation: "middle", // Center the axis name
+  nameGap: 30, // Add some space between the axis and its name
+  nameTextStyle: {
+    color: "#000",
+  },
 };
 
 const yAxis = {
